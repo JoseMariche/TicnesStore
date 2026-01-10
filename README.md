@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏪 App Store - Frontend
 
 Uma aplicação moderna de App Store desenvolvida com **React + TypeScript**, oferecendo uma interface completa para navegação, busca, visualização e avaliação de aplicativos.
@@ -247,3 +248,8 @@ Este projeto é apenas para fins educacionais e demonstração.
 ---
 
 **Desenvolvido como demonstração de uma App Store moderna e completa! 🚀**
+=======
+# TicnesStore
+Para ser o meu repo da TicnesStore
+>>>>>>> 7f9d722798c9ab6b758c0cdc31d8ead70434c2ec
+# TicnesStoreAi
