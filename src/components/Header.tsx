@@ -37,7 +37,7 @@ export const Header: React.FC = () => {
             <span>Ticnes Store</span>
           </Link>
 
-          {/* Desktop Navigation */}
+          {/* Desktop Navigation mmmmm */}
           <nav className="hidden md:flex items-center gap-6">
             <Link
               to="/"
