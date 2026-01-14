@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🏪 App Store - Frontend
+# 🏪 Ticnes Store - Frontend
 
 Uma aplicação moderna de App Store desenvolvida com **React + TypeScript**, oferecendo uma interface completa para navegação, busca, visualização e avaliação de aplicativos.
 
